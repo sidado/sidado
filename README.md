@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @sidado
+- 👀 I’m interested in figuring out game development for the Web
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to try pair programming to collaborate on small hobby projects
+- 📫 You can reach me on reddit (sidado_22)
