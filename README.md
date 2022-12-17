@@ -1,3 +1,6 @@
-- Hi, I’m @sidado
-- I’m currently delving into python and game development as a hobby  
-- You can reach me on reddit (sidado_22)
+- currently learning python
+- hobbyist gamedev 
+- trying to make a coffeebreak-sized strategy game
+- looking to collaborate with artists
+- lookng to try out pair-programming (python) 
+- reach me on reddit (sidado_22)
