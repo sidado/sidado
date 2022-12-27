@@ -1,6 +1,4 @@
 - currently learning python
-- hobbyist gamedev 
-- trying to make a coffeebreak-sized strategy game
+- hobbyist gamedev,  trying to make a coffeebreak-sized strategy game
 - looking to collaborate with artists
-- lookng to try out pair-programming (python) 
 - reach me on reddit (sidado_22)
